@@ -1,0 +1,3 @@
+字面值(形如"xxx")不是string类型
+string::size_type 是一个无符号类型
+
