@@ -1,1 +1,1 @@
-Learn git and C++
+Learn git and C/C++
